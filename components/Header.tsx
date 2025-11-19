@@ -5,7 +5,7 @@ import { Sparkles, Menu, X } from 'lucide-react';
 const navItems: NavItem[] = [
   { id: 'intro', label: '제도 안내' },
   { id: 'eligibility', label: '대상 및 기준' },
-  { id: 'calculator', label: '휴가 계산기' },
+  { id: 'calculator', label: '리프레시 계산기' },
   { id: 'process', label: '신청 절차' },
   { id: 'rules', label: '유의 사항' },
 ];
